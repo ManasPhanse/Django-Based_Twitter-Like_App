@@ -1,0 +1,11 @@
+First Install Django
+
+Second in CMD:
+
+py manage.py runserver
+
+Third 127.0.0.1 wale pe jao
+
+Fourth Admin A/c banao
+
+Final MAGIC!
