@@ -1,6 +1,6 @@
 # A Twitter Web like Application using Django Framework (Windows Edition)
 
-# inspired from
+# Inspired from
 https://realpython.com/django-social-network-1/
 
 ## Installation
@@ -44,7 +44,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-#### run the development server
+#### Run the development server
 ```
 manage.py runserver
 ```
