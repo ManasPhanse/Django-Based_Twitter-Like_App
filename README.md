@@ -20,16 +20,16 @@ manage.py makemigrations
 manage.py migrate
 ```
 
-## Setup LogIN by
+## Setup Log In by
 ```
 python manage.py createsuperuser
 ```
 
-## LogIN to:
+## Log In to:
 http://127.0.0.1:8000/admin/
 
 ## Start Dweets
-DashBoard: http://127.0.0.1:8000/
+Dashboard: http://127.0.0.1:8000/
 
 ### Modify social/settings.py to run the Web App
 ```
